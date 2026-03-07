@@ -14,7 +14,7 @@
 * ⚡ Experience with **Android & Kotlin**
 * 🔗 Experienced using **Git & GitHub**
 * 🧪 API testing using **Postman**
-* 🌱 Currently learning **Spring Boot Backend**
+* 🌱 Currently learning **Mern Stack**
 
 ---
 
